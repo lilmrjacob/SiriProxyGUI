@@ -1,0 +1,1 @@
+mv /var/www/assets/php/openssl.cnf /etc/ssl/openssl.cnf
